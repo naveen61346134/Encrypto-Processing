@@ -149,7 +149,7 @@ def start():
     serialLoader()
 
 
-def algo_num(): r8_R67ll00OIVfgW9Q033boEaGG5TvwoNU0eG8K4
+def algo_num(): #r8_R67ll00OIVfgW9Q033boEaGG5TvwoNU0eG8K4
     num_array = []
     num = random.randint(1000, 9999)
     while num > 0:
